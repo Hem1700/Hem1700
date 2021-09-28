@@ -3,8 +3,6 @@
 <br/>
 
 ## Hey, I'm <a href="https://github.com/Hem1700" target="_blank">Hem</a>!
-(Use dark theme to find my socials ;)
-
 
 ### 📕 Latest Blog Post
 
