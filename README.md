@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently a Computing Security Master's Student at RIT
 
 
