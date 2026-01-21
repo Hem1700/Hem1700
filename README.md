@@ -1,5 +1,5 @@
 # About Me:
-I'm Privacy Engineer at Amazon
+I'm a Privacy Engineer at Amazon
 
 
 ## 🌐 Socials:
