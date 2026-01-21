@@ -1,5 +1,5 @@
 # About Me:
-I'm currently a Cybersecurity Master's Student at RIT
+I'm Privacy Engineer at Amazon
 
 
 ## 🌐 Socials:
